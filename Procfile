@@ -1,1 +1,1 @@
-webserver: bin/echo-server
+web: bin/echo-server
