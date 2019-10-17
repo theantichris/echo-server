@@ -1,3 +1,3 @@
-# go-repo
+# echo-server
 
- A template Go repository.
+ An "echo" server.
